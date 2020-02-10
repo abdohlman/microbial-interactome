@@ -1,0 +1,13 @@
+ccrepe                  Calculates compositionality-corrected p-values
+                        and q-values for compositional data using an
+                        arbitrary distance metric.
+ccrepe-package          A package for analysis of sparse compositional
+                        data. Allows calculation of the similarity
+                        measure nc-score and calculation of
+                        compositionality-corrected p-values for
+                        arbitrary similarity scores (including
+                        user-defined) applied to compositional data.
+ccrepeSampleTestFunction
+                        ccrepeSampleTestFunction - Simple example of a
+                        test measurent function to be used with ccrepe
+nc.score                nc.score

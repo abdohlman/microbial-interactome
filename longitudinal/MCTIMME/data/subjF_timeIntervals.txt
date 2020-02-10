@@ -1,0 +1,5 @@
+no_treat	1	64
+treat	65	69
+no_treat	70	239
+treat	240	244
+no_treat	245	281
